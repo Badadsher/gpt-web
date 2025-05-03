@@ -14,7 +14,7 @@ https://gptpublication.netlify.app/
 
 ```bash
 # 1. Клонируй репозиторий
-git clone (https://github.com/Badadsher/gpt-web)
+git clone https://github.com/Badadsher/gpt-web
 
 # 2. Перейди в папку проекта
 cd gpt-web
