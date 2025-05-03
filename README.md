@@ -4,9 +4,6 @@
 Этот проект — это современный лендинг/портфолио AI-сервисов, вдохновляющий пользователей исследовать технологии будущего.
 
 ![React](https://img.shields.io/badge/React-blue?logo=react)
-![Status](https://img.shields.io/badge/status-Development-orange)
-![License](https://img.shields.io/github/license/Badadsher/DriftYandexGame)
-
 ---
 
 ## 🌐 Демонстрация
