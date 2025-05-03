@@ -14,10 +14,10 @@ https://gptpublication.netlify.app/
 
 ```bash
 # 1. Клонируй репозиторий
-git clone https://github.com/Badadsher/DriftYandexGame.git
+git clone (https://github.com/Badadsher/gpt-web)
 
 # 2. Перейди в папку проекта
-cd DriftYandexGame
+cd gpt-web
 
 # 3. Установи зависимости
 npm install
